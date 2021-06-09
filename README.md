@@ -1,5 +1,7 @@
 # Lab-Manage-System
-A lab manage system built by pyqt5, python and MySQL.
+A lab manage system built by python.
+
+requirements: pyqt5, numpy, pandas and pymysql
 
 
 the text of the project is set in Chinese because it's my homework :)
